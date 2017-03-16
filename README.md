@@ -12,3 +12,7 @@ Directions:
   6.Click it to go FullScreen.
   
 Please contribute to the code if you have any ideas regarding it.
+
+#Update
+
+You can now import the FullscreenSpojUserscript to TamperMonkey to use the feature as an extension.
